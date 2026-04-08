@@ -12,7 +12,7 @@ Network Specialist con 2+ anni di esperienza nella progettazione, configurazione
 valerii@network:~$ whoami --verbose
 → Nome:       Valerii Starko
 → Ruolo:      Network Specialist / NOC Engineer
-→ Esperienza: 5+ anni in infrastrutture enterprise
+→ Esperienza: 2+ anni in infrastrutture enterprise
 → Location:   Milano, Italia 🇮🇹
 → Status:     OPEN TO WORK ✅
 ```
