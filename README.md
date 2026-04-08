@@ -14,7 +14,6 @@ valerii@network:~$ whoami --verbose
 → Ruolo:      Network Specialist / NOC Engineer
 → Esperienza: 2+ anni in infrastrutture enterprise
 → Location:   Milano, Italia 🇮🇹
-→ Status:     OPEN TO WORK ✅
 ```
 
 ---
