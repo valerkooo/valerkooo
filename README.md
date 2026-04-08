@@ -6,10 +6,10 @@
 
 ## 👤 About Me
 
-Network Specialist con 5+ anni di esperienza nella progettazione, configurazione e protezione di infrastrutture di rete enterprise. Specializzato in routing avanzato, sicurezza perimetrale e automazione di rete con Ansible e Python.
+Network Specialist con 2+ anni di esperienza nella progettazione, configurazione e protezione di infrastrutture di rete enterprise. Specializzato in routing avanzato, sicurezza perimetrale e automazione di rete con Ansible e Python.
 
 ```
-marco@network:~$ whoami --verbose
+valerii@network:~$ whoami --verbose
 → Nome:       Valerii Starko
 → Ruolo:      Network Specialist / NOC Engineer
 → Esperienza: 5+ anni in infrastrutture enterprise
@@ -102,12 +102,8 @@ Lab virtualizzato su EVE-NG che replica un'infrastruttura enterprise completa co
 
 | Badge | Certificazione | Ente | Anno |
 |:-----:|---------------|------|:----:|
-| 🏆 | CCNP Enterprise | Cisco Systems | 2023 |
-| 🎓 | CCNA | Cisco Systems | 2021 |
-| 🔐 | NSE 4 FortiGate | Fortinet | 2022 |
-| ☁️ | AWS SAA-C03 | Amazon Web Services | 2023 |
-| 🛡️ | CompTIA Security+ | CompTIA | 2022 |
-| 📶 | Aruba ACMA | Aruba Networks | 2024 |
+| 🎓 | CCNA | Cisco Systems | 202 |
+| 🔐 | NSE 3 FortiGate | Fortinet | 2026 |
 
 ---
 
@@ -115,22 +111,20 @@ Lab virtualizzato su EVE-NG che replica un'infrastruttura enterprise completa co
 
 | Metrica | Valore |
 |---------|--------|
-| Anni di esperienza | 5+ |
+| Anni di esperienza | 2+ |
 | Progetti completati | 28 |
 | Dispositivi gestiti | 500+ |
 | Uptime garantito | 99.97% |
-| Certificazioni attive | 6 |
+| Certificazioni attive | 2 |
 
 ---
 
 ## 📬 Contatti
 
-Sono disponibile per opportunità full-time, collaborazioni freelance o semplicemente per scambiare idee su infrastrutture di rete. Rispondo in meno di 24 ore.
-
-- ✉️ **Email:** [marco.rossi@email.com](mailto:marco.rossi@email.com)
-- 💼 **LinkedIn:** [linkedin.com/in/marco-rossi](https://linkedin.com/in/marco-rossi)
-- 🐙 **GitHub:** [github.com/marco-rossi-net](https://github.com/marco-rossi-net)
+- ✉️ **Email:** [@email.com](mailto:)
+- 💼 **LinkedIn:** [linkedin.com/in/](https://linkedin.com/in/)
+- 🐙 **GitHub:** [github.com/](https://github.com/)
 
 ---
 
-*Valerii Starko — Network Specialist · Milano, Italia · Open to Work*
+*Valerii Starko — Network Specialist · Milano, Italia*
