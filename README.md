@@ -1,6 +1,6 @@
 # Valerii Starko — Network Specialist
 
-> 📍 Milano, Italia &nbsp;|&nbsp; ✅ Open to Work &nbsp;|&nbsp; ⚡ Uptime: 99.97%
+> 📍 Milano, Italia &nbsp;|&nbsp; ⚡ Uptime: 99.97%
 
 ---
 
